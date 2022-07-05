@@ -44,6 +44,26 @@ return 0;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //b. Finding max element 
 #include <stdio.h> 
 int main()
